@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">bigger</string>
+    <string name="act1">Input your message here</string>
+    <string name="act2">Text FG color</string>
+    <string name="act3">Text BG color</string>
+</resources>
